@@ -1,2 +1,2 @@
-# QUISPE-_IA
-Probando IA sin censura. Trabajo Cloud Computing
+# QUISPE_IA
+Probando IA SC. Trabajo Cloud Computing
